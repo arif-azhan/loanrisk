@@ -1,4 +1,4 @@
-# Loan Risk Prediction
+# Loan Risk Prediction (End to End Data Science Workflow and ML Model Deployment)
 
 ## Objective
 The goal of this project is to predict the likelihood of loan repayment using datasets related to loans, payments, and underwriting variables. The project focuses on data cleaning, exploratory data analysis (EDA), feature engineering, and the development of machine learning models to classify loan applicants as "High Risk" or "Low Risk."
